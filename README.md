@@ -1,3 +1,4 @@
+  ![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Tasin</h1>
 <h3 align="center">A passionate Tech learner from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif">
